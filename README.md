@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💻 React
+- 📱 React Native
+- 🧠 Python
+- 📚 C Language
+- 🟦 TypeScript
+- 🟨 JavaScript
 <!--
 **RioTsukiji/RioTsukiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
