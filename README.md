@@ -4,6 +4,7 @@
 - 📱 React Native
 - 🧠 Python
 - 📚 C Language
+- 🐭 Golang
 - 🟦 TypeScript
 - 🟨 JavaScript
 <!--
